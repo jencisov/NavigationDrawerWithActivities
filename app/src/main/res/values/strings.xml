@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationDrawerWithActivities</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="activity_import">Import</string>
+    <string name="activity_gallery">Gallery</string>
+    <string name="activity_slideshow">Slideshow</string>
+    <string name="activity_tools">Tools</string>
+    <string name="share_toast">You have pressed share on an empty screen</string>
+    <string name="send_toast">You have pressed send on an empty screen</string>
+
+</resources>
